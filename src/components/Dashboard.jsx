@@ -15,7 +15,6 @@ function Dashboard() {
           <li>Molho de Tomate</li>
           <li>Batata Palha</li>
         </ul>
-        <button className="mt-4 bg-orange-500 hover:bg-red-700 text-white py-2 px-4 rounded">Fazer Pedido</button>
       </div>
 
       <div className="bg-white p-4 rounded shadow">
